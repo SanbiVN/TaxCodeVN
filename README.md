@@ -4,8 +4,9 @@
 [Click để tải về](https://github.com/SanbiVN/TaxCodeVN/releases/tag/tax_code)
 
 ### Liên hệ hỗ trợ
-Messenger: https://m.me/he.sanbi hoặc tìm /he.sanbi
-Zalo: 0384170514
+
+- Messenger: https://m.me/he.sanbi hoặc tìm /he.sanbi
+- Zalo: 0384170514
 
 
 Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explorer chỉnh thêm bước sau: (Chỉ trên hệ điều hành window cũ)
