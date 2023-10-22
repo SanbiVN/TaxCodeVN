@@ -1,8 +1,9 @@
 # TaxCodeVN
  Tra cứu mã số thuế cá nhân nhanh chóng với Excel
 
-[![Github All Releases](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]()
 [Click để tải về](https://github.com/SanbiVN/TaxCodeVN/releases/tag/tax_code)
+
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]()
 
 ### Liên hệ hỗ trợ
 
