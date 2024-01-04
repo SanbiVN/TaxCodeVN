@@ -21,3 +21,7 @@ Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explo
 ![1704386615002](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/d116d8d5-1506-487b-9e8c-7a8e20c4ad75)
 ![1704386282911](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/4fdb2359-e9a0-41c8-bade-b739683faf83)
 ![1704386825453](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/5b90c051-4489-41f1-a124-953392a8aa86)
+![1704386707369](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/53b3a3a6-cd4d-4fc9-bad5-debd3f4c97bd)
+![1704386891790](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/70f1c456-3c35-46ca-889f-e3c72603032a)
+![1704387244821](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/ad8d9472-2961-471e-8dc0-acb2b1894f6e)
+![1704387272844](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/0cb03b75-2672-4bf4-8bc3-f7f5d3fb499a)
