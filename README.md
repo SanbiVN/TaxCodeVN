@@ -47,7 +47,7 @@ Nhập vào hộp mã số thuế hoặc CMT/Căn cước:​ \
 Các nút nhấn:​
 1. Xóa trống: xóa bỏ toàn bộ vị trí cột đã nhập
 2. Đánh thứ tự: Đánh tự động tất cả vị trí thông tin
-3. Lưu: Xóa thông tin vị trí đã lưu cho lần tiếp theo
+3. Lưu: Lưu thông tin vị trí đã thiết đặt cho lần tiếp theo.
 4. Ghi tiêu đề: Sau khi đặt vị trí cột, nhấn để ghi tiêu đề vào trang tính.
 
 
