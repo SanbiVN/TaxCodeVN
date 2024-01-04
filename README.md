@@ -6,23 +6,14 @@
 
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]()
 
-### Liên hệ hỗ trợ
 
-- Messenger: https://m.me/he.sanbi hoặc tìm /he.sanbi
-- Zalo: 0384170514
-
-
-Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explorer chỉnh thêm bước sau: (Chỉ trên hệ điều hành window cũ)
-
-![tls-ssl-protocols](https://user-images.githubusercontent.com/58664571/227971175-2dbeffac-12cf-4e80-a87a-da599e5186ed.jpg)
 ![1704385847582](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/f42e9dbc-bf1d-47f4-ab5f-a43f86cd4116)
 
 
 
 
 
-![1704386707369](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/53b3a3a6-cd4d-4fc9-bad5-debd3f4c97bd)
-![1704386891790](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/70f1c456-3c35-46ca-889f-e3c72603032a)
+
 
 
 
@@ -43,32 +34,46 @@ b) Tìm kiếm với Mã số thuế hoặc CMT/Căn cước​
 ![1704386282911](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/4fdb2359-e9a0-41c8-bade-b739683faf83)
 Để chọn vị trí cột cần tra cứu, hãy chọn ô tiêu đề của cột cần tra cứu​
 Các control:​
-ComboBox nhập ô: nhập ô đại diện vị trí cột
-Ô hiện tại: Chọn ô hiện hành làm vị trí cột
-Xóa vị trí: Xóa thông tin vị trí đã lưu cho lần tiếp theo
-Xóa: làm trống ComboBox
+1. ComboBox nhập ô: nhập ô đại diện vị trí cột
+2. Ô hiện tại: Chọn ô hiện hành làm vị trí cột
+3. Xóa vị trí: Xóa thông tin vị trí đã lưu cho lần tiếp theo
+4. Xóa: làm trống ComboBox
+
+   
 Nếu vị trí để trống, thì chỉ tìm kiếm thông tin bình thường không nhập vào bảng tính.​
 Nhập vào hộp mã số thuế hoặc CMT/Căn cước:​
-​
+​![1704386707369](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/53b3a3a6-cd4d-4fc9-bad5-debd3f4c97bd)
+![1704386891790](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/70f1c456-3c35-46ca-889f-e3c72603032a)
 
 ### 4. Tạo các cột thông tin cần tra cứu:
 ​
 Đánh dấu vào hộp kiểm: [Thứ tự cột dữ liệu] để đánh số vị trí các cột thông tin.​
 ​
 Các nút nhấn:​
-Xóa trống: xóa bỏ toàn bộ vị trí cột đã nhập
-Đánh thứ tự: Đánh tự động tất cả vị trí thông tin
-Lưu: Xóa thông tin vị trí đã lưu cho lần tiếp theo
-Ghi tiêu đề: Sau khi đặt vị trí cột, nhấn để ghi tiêu đề vào trang tính.
-Ví dụ đặt thông tin Cá Nhân:
+1. Xóa trống: xóa bỏ toàn bộ vị trí cột đã nhập
+2. Đánh thứ tự: Đánh tự động tất cả vị trí thông tin
+3. Lưu: Xóa thông tin vị trí đã lưu cho lần tiếp theo
+4. Ghi tiêu đề: Sau khi đặt vị trí cột, nhấn để ghi tiêu đề vào trang tính.
 
+
+Ví dụ đặt thông tin Cá Nhân:\
 ![1704387244821](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/ad8d9472-2961-471e-8dc0-acb2b1894f6e)
 ​
-Ví dụ đặt thông tin Doanh nghiệp:​
+Ví dụ đặt thông tin Doanh nghiệp:​\
 ![1704387272844](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/0cb03b75-2672-4bf4-8bc3-f7f5d3fb499a)
 
 
 ### 5. Nhập mã Captcha để thực hiện tra cứu:
 
-![1704386825453](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/5b90c051-4489-41f1-a124-953392a8aa86)
+![1704386825453](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/5b90c051-4489-41f1-a124-953392a8aa86)\
 (Nhập bằng bàn phím cứng hoặc dùng chuột)​
+
+
+## Liên hệ hỗ trợ
+
+- Messenger: https://m.me/he.sanbi hoặc tìm /he.sanbi
+- Zalo: 0384170514
+
+Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explorer chỉnh thêm bước sau: (Chỉ trên hệ điều hành window cũ)
+
+![tls-ssl-protocols](https://user-images.githubusercontent.com/58664571/227971175-2dbeffac-12cf-4e80-a87a-da599e5186ed.jpg)
