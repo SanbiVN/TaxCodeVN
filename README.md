@@ -70,6 +70,7 @@ Ví dụ đặt thông tin Doanh nghiệp:​\
 - Messenger: https://m.me/he.sanbi hoặc tìm /he.sanbi
 - Zalo: 0384170514
 
-Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explorer chỉnh thêm bước sau: (Chỉ trên hệ điều hành window cũ)
+Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explorer chỉnh thêm bước sau: 
+(Nếu Window 11 trở về sau hãy tìm mở Internet Options)
 
 ![tls-ssl-protocols](https://user-images.githubusercontent.com/58664571/227971175-2dbeffac-12cf-4e80-a87a-da599e5186ed.jpg)
