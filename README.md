@@ -4,7 +4,7 @@
 [Nhấn tải TaxCodeTCT 1.15 (Nguồn dữ liệu từ tổng cục thuế)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code_tct/TaxCodeTCT_v1.15.zip)\
 [Nhấn tải TaxCodeVN 2.77 (Nguồn dữ liệu MaSoThue.vn)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v2.77.xlsm)
 
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]()
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code_tct/TaxCodeTCT_v1.15.zip)
 
 ![image](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/d71f5403-916b-4ff6-9b04-22b2346fad87)
 
