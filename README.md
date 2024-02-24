@@ -1,10 +1,10 @@
 # TaxCode
  Tra cứu mã số thuế cá nhân nhanh chóng với Excel
 
-[Nhấn tải TaxCodeTCT (Nguồn dữ liệu từ tổng cục thuế)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code_tct/TaxCodeTCT_v1.18.zip)\
+[Nhấn tải TaxCodeTCT (Nguồn dữ liệu từ tổng cục thuế)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code_tct/TaxCodeTCT_v1.19.zip)\
 [Nhấn tải TaxCodeVN (Nguồn dữ liệu MaSoThue.vn)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v2.78.xlsm)
 
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code_tct/TaxCodeTCT_v1.18.zip)
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code_tct/TaxCodeTCT_v1.19.zip)
 
 ![image](https://github.com/SanbiVN/TaxCodeVN/assets/58664571/d71f5403-916b-4ff6-9b04-22b2346fad87)
 
