@@ -1,15 +1,11 @@
 # TaxCode
- Tra cứu mã số thuế cá nhân nhanh chóng với Excel
+ Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel
+ Sửa dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
 
 [Nhấn tải TaxCodeVN (Nguồn dữ liệu MaSoThue.vn)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.0.rar) \
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.0.rar) 
 
 *** Mật khẩu VBA là 1
-
-Nếu ứng dụng không hoạt động hãy mở trình Duyệt Internet Explorer chỉnh thêm bước sau: 
-(Nếu Window 11 trở về sau hãy tìm mở Internet Options)
-
-![tls-ssl-protocols](https://user-images.githubusercontent.com/58664571/227971175-2dbeffac-12cf-4e80-a87a-da599e5186ed.jpg)
 
 
 
