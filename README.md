@@ -9,6 +9,7 @@
 
 Với tải tệp rar sẽ gồm tệp Exe mở trực tiếp và cả tệp Add-in. \
 Với tải tệp Add-in cài đặt sẽ có nút nhấn để hiện cửa sổ tải thông tin. Nút nhấn nằm tại Tab Ribbon Data (Dữ liệu), mục TaxCode.
+Hoặc gõ hàm TaxCodeWindow() vào ô bất kì để mở.
 
 ![image](https://github.com/user-attachments/assets/e53a88c7-fcdd-45fe-a501-b2f2d31ba531)
 
