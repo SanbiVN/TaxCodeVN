@@ -2,10 +2,10 @@
  Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel với nguồn dữ liệu Tổng cục thế và masothue.vn \
  Sử dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
 
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.11.rar) 
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.12.rar) 
 
-[Nhấn tải TaxCodeVN Rar](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.11.rar) \
-[Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.11.xlam) 
+[Nhấn tải TaxCodeVN Rar](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.12.rar) \
+[Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.12.xlam) 
 
 Với tải tệp rar sẽ gồm tệp Exe mở trực tiếp và cả tệp Add-in. \
 Với tải tệp Add-in cài đặt sẽ có nút nhấn để hiện cửa sổ tải thông tin. Nút nhấn nằm tại Tab Ribbon Data (Dữ liệu), mục TaxCode.
