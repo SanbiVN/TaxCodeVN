@@ -37,9 +37,6 @@ Zalo: 0384170514
 <img title="@FasterOfficeVBA" src="https://github.com/user-attachments/assets/970644a2-f125-440f-9bd9-2f8888187a22" width="200">
 </p>
 
-![z6057800438527_b52987e20a5b73c58f11648c35bd59f6](https://github.com/user-attachments/assets/970644a2-f125-440f-9bd9-2f8888187a22)
-
-
 #### Facebook Messenger
 [@Sanbi](https://m.me/he.sanbi)
 
