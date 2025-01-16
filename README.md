@@ -22,9 +22,12 @@ Hoặc gõ hàm TaxCodeWindow() vào ô bất kì để mở. \
 3. Chọn ô là tiêu đề của cột dữ liệu CCCD/MST trong bảng tính Excel
 4. Thiết lập cột dữ liệu trả về cần thiết
 5. Nhấn "BẮT ĐẦU" để khởi tạo hoặc tìm kiếm ngay
-6. Nhập Captcha (Khi nguồn là Tổng cục thuế), nhập đủ 5 ký tự, tự động tải.
+6. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải. Nguồn masothue.vn đang tải tự nhiên lỗi, cần nhấn ```Làm mới``` để duyệt ReCaptcha.
 
 ![402415720-60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee](https://github.com/user-attachments/assets/0797ecb0-e292-41b5-a7c8-f3d5ee82868f)
+
+
+
 
 ## Liên hệ của tôi:
 
