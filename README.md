@@ -16,8 +16,7 @@ Hoặc gõ hàm TaxCodeWindow() vào ô bất kì để mở. \
 
 ![image](https://github.com/user-attachments/assets/e53a88c7-fcdd-45fe-a501-b2f2d31ba531)
 
-![image](https://github.com/user-attachments/assets/60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee)
-
+![402415720-60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee](https://github.com/user-attachments/assets/0797ecb0-e292-41b5-a7c8-f3d5ee82868f)
 
 ## Liên hệ của tôi:
 
