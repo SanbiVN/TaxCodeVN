@@ -30,14 +30,14 @@ Tùy chọn ```Chèn dòng``` nếu có mã số thuế thứ 2
 
 ![402415720-60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee](https://github.com/user-attachments/assets/0797ecb0-e292-41b5-a7c8-f3d5ee82868f)
 
-Khi tải danh sách nhiều mã từ nguồn masothue.vn, do quá trình tải thông tin và ghi thì cần ứng dụng Excel ở chế độ "rảnh tay", nếu không sẽ ảnh hưởng đến quá trình làm việc của bạn.
+Khi tải danh sách nhiều mã từ nguồn masothue.vn, do quá trình tải thông tin và ghi thì cần ứng dụng Excel ở chế độ "rảnh tay", nếu không sẽ ảnh hưởng đến quá trình làm việc của bạn. \
 Vì vậy hãy mở tệp của bạn ở Excel tiến trình khác, có thể nhấn icon Excel gốc phải phía trên của ứng dụng để mở. Lúc này bạn có thể làm việc tại Excel chính.
 
 
 ### Ví dụ
 
 Bạn cần có danh sách như bảng tính Excel bên dưới
-Mở ứng dụng tải thông tin, tại mục ```Thiết lập cột tìm kiếm```, hãy chọn trang tính tương ứng và nhập ```A1``` vào ```Nhập ô tiêu đề``` vì ô ```A1``` là tiêu đề cột MST/CCCD
+Mở ứng dụng tải thông tin, tại mục ```Thiết lập cột tìm kiếm```, hãy chọn trang tính tương ứng và nhập ```A1``` vào ```Nhập ô tiêu đề``` vì ô ```A1``` là tiêu đề cột MST/CCCD.  \
 Thứ tự cột tính từ cột A là 0, cột B sẽ là 1, từ đó thiết lập cột ghi dữ liệu​.
 
 ![image](https://github.com/user-attachments/assets/44047f32-45db-49b8-96a8-f0793dc57833)
