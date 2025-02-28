@@ -20,16 +20,26 @@ Hoặc gõ hàm TaxCodeWindow() vào ô bất kì để mở. \
 1. Chọn nguồn dữ liệu (Nguồn tct có nhập captcha bằng tay)
 2. Thiết lập tiêu chí tìm kiếm
 3. Chọn ô là tiêu đề của cột dữ liệu CCCD/MST trong bảng tính Excel
-4. Thiết lập cột dữ liệu trả về cần thiết
+4. Thiết lập cột dữ liệu trả về cần thiết, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để trống thì bỏ qua. Thứ tự bắt đầu từ cột MST/CCCD + 1.
 5. Nhấn "BẮT ĐẦU" để khởi tạo hoặc tìm kiếm ngay
 6. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải. Nguồn masothue.vn đang tải tự nhiên lỗi, cần nhấn ```Làm mới``` để duyệt ReCaptcha.
+
+Tùy chọn ```Lấy thông tin mã số thuế thứ 2 nếu có``` vì có CCCD có hơn 1 mã số thuế \
+Tùy chọn ```Chèn dòng``` nếu có mã số thuế thứ 2
 
 
 ![402415720-60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee](https://github.com/user-attachments/assets/0797ecb0-e292-41b5-a7c8-f3d5ee82868f)
 
-
 Khi tải danh sách nhiều mã từ nguồn masothue.vn, do quá trình tải thông tin và ghi thì cần ứng dụng Excel ở chế độ "rảnh tay", nếu không sẽ ảnh hưởng đến quá trình làm việc của bạn.
 Vì vậy hãy mở tệp của bạn ở Excel tiến trình khác, có thể nhấn icon Excel gốc phải phía trên của ứng dụng để mở. Lúc này bạn có thể làm việc tại Excel chính.
+
+#### Ví dụ
+
+Bạn cần có danh sách như bảng tính Excel sau:
+
+![image](https://github.com/user-attachments/assets/44047f32-45db-49b8-96a8-f0793dc57833)
+
+Mở ứng dụng tải thông tin, tại mục ```Thiết lập cột tìm kiếm```, hãy chọn trang tính tương ứng và nhập ```A1``` vào ```Nhập ô tiêu đề``` vì ô ```A1``` là tiêu đề cột
 
 
 ## Liên hệ của tôi:
