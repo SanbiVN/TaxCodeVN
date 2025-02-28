@@ -24,12 +24,12 @@ Hoặc gõ hàm TaxCodeWindow() vào ô bất kì để mở. \
 5. Nhấn "BẮT ĐẦU" để khởi tạo hoặc tìm kiếm ngay
 6. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải. Nguồn masothue.vn đang tải tự nhiên lỗi, cần nhấn ```Làm mới``` để duyệt ReCaptcha.
 
-Khi tải danh sách nhiều mã, do quá trình tải thông tin và ghi thì cần ứng dụng Excel ở chế độ "rãnh tay", nên sẽ ảnh hưởng đến quá trình làm việc của bạn.
-Vì vậy hãy mở tệp của bạn ở Excel tiến trình khác, có thể nhấn icon Excel gốc phải phía trên của ứng dụng để mở. Lúc này bạn có thể làm việc tại Excel chính.
 
 ![402415720-60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee](https://github.com/user-attachments/assets/0797ecb0-e292-41b5-a7c8-f3d5ee82868f)
 
 
+Khi tải danh sách nhiều mã từ nguồn masothue.vn, do quá trình tải thông tin và ghi thì cần ứng dụng Excel ở chế độ "rảnh tay", nếu không sẽ ảnh hưởng đến quá trình làm việc của bạn.
+Vì vậy hãy mở tệp của bạn ở Excel tiến trình khác, có thể nhấn icon Excel gốc phải phía trên của ứng dụng để mở. Lúc này bạn có thể làm việc tại Excel chính.
 
 
 ## Liên hệ của tôi:
