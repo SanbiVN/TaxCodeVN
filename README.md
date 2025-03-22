@@ -36,8 +36,8 @@ Vì vậy hãy mở tệp của bạn ở Excel tiến trình khác, có thể n
 
 ### Ví dụ
 
-Bạn cần có danh sách như bảng tính Excel bên dưới
-Mở ứng dụng tải thông tin, tại mục ```Thiết lập cột tìm kiếm```, hãy chọn trang tính tương ứng và nhập ```A1``` vào ```Nhập ô tiêu đề``` vì ô ```A1``` là tiêu đề cột MST/CCCD.  \
+Bạn cần có danh sách như bảng tính Excel bên dưới \
+Mở ứng dụng tải thông tin, tại mục ```Thiết lập cột tìm kiếm```, hãy chọn trang tính tương ứng và nhập ```A1``` vào mục ```Nhập ô tiêu đề``` vì ô ```A1``` là tiêu đề cột MST/CCCD.  \
 Thứ tự cột tính từ cột A là 0, cột B sẽ là 1, từ đó thiết lập cột ghi dữ liệu​.
 
 ![image](https://github.com/user-attachments/assets/44047f32-45db-49b8-96a8-f0793dc57833)
