@@ -5,7 +5,9 @@
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.23.rar) 
 
 [Nhấn tải TaxCodeVN Rar](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.23.rar) \
-[Nhấn tải TaxCodeVN Add-in cho Excel](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.23.xlam) 
+[Nhấn tải TaxCodeVN Add-in cho Excel](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.23.xlam) \
+[Nhấn tải TaxCode dành cho Excel và Window cũ hơn](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCode_IE.xlsm)
+
 
 Với tải tệp rar sẽ gồm tệp Exe mở trực tiếp và cả tệp Add-in. \
 Với tải tệp Add-in cài đặt sẽ có nút nhấn để hiện cửa sổ tải thông tin. Nút nhấn nằm tại Tab Ribbon Data (Dữ liệu), mục TaxCode.
