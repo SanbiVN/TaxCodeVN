@@ -2,11 +2,11 @@
  Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel với nguồn dữ liệu Tổng cục thế và masothue.vn \
  Sử dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
 
-***Thông báo quan trọng: Mã nguồn TCT đã đổi mã nguồn, ứng dụng hiện đang được sửa mã, sẽ có thông báo khi hoàn thành! \
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.26.rar) 
+***Thông báo quan trọng: Đã sửa mã cho nguồn TCT, ứng dụng hiện có thể tải dữ liệu từ TCT! \
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.28.rar) 
 
-[Nhấn tải TaxCodeVN Rar](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.26.rar) \
-[Nhấn tải TaxCodeVN Add-in cho Excel](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.26.xlam) \
+[Nhấn tải TaxCodeVN Rar](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.28.rar) \
+[Nhấn tải TaxCodeVN Add-in cho Excel](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.28.xlam) \
 [Nhấn tải TaxCode dành cho Excel và Window cũ hơn](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCode_IE.xlsm)
 
 
