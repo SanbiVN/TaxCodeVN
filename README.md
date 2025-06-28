@@ -3,10 +3,10 @@
  Sử dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
 
 ***Thông báo quan trọng: Đã sửa mã cho nguồn TCT, ứng dụng hiện có thể tải dữ liệu từ TCT! \
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.28.rar) 
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.29.rar) 
 
-[Nhấn tải TaxCodeVN Add-in cho Excel + Exe](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.28.rar) \
-[Nhấn tải TaxCodeVN Add-in cho Excel](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.28.xlam) \
+[Nhấn tải TaxCodeVN Add-in cho Excel + Exe](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.29.rar) \
+[Nhấn tải TaxCodeVN Add-in cho Excel](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v3.29.xlam) \
 [Nhấn tải TaxCode dành cho Excel và Window cũ hơn](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCode_IE.xlsm)
 
 
@@ -45,6 +45,9 @@ Thứ tự cột tính từ cột A là 0, cột B sẽ là 1, từ đó thiết
 
 ![image](https://github.com/user-attachments/assets/44047f32-45db-49b8-96a8-f0793dc57833)
 
+
+### Bảng thiết lập cột dữ liệu
+![image](https://github.com/user-attachments/assets/f08ff137-75bb-44fa-9e4b-a46a1ca3e151)
 
 
 ## Liên hệ của tôi:
