@@ -8,44 +8,20 @@
 [Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.0.rar) \
 
 
-Với tải tệp rar sẽ gồm tệp Exe mở trực tiếp và cả tệp Add-in. \
-Với tải tệp Add-in cài đặt sẽ có nút nhấn để hiện cửa sổ tải thông tin. Nút nhấn nằm tại Tab Ribbon Data (Dữ liệu), mục TaxCode.
-Hoặc gõ hàm TaxCodeWindow() vào ô bất kì để mở. \
+
 (Lưu ý: Trước khi cài đặt add-in cần bỏ ```unblock``` tệp xlam trước khi cài đặt vào Excel) \
 
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
-![image](https://github.com/user-attachments/assets/e53a88c7-fcdd-45fe-a501-b2f2d31ba531)
+<img width="1548" height="137" alt="image" src="https://github.com/user-attachments/assets/ed80cbb3-92fc-4884-93b4-49a954328d21" />
+
 
 #### HƯỚNG DẪN 
-1. Chọn nguồn dữ liệu (Nguồn tct có nhập captcha bằng tay)
-2. Thiết lập tiêu chí tìm kiếm
-3. Chọn ô là tiêu đề của cột dữ liệu CCCD/MST trong bảng tính Excel
-4. Thiết lập cột dữ liệu trả về cần thiết, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để trống thì bỏ qua. Thứ tự bắt đầu từ cột MST/CCCD + 1.
-5. Nhấn "BẮT ĐẦU" để khởi tạo hoặc tìm kiếm ngay
-6. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải. Nguồn masothue.vn đang tải tự nhiên lỗi, cần nhấn ```Làm mới``` để duyệt ReCaptcha.
-
-Tùy chọn ```Lấy thông tin mã số thuế thứ 2 nếu có``` vì có CCCD có hơn 1 mã số thuế \
-Tùy chọn ```Chèn dòng``` nếu có mã số thuế thứ 2
-
-
-![402415720-60ddbf4e-b8e6-48d6-8840-6a0e9ecae4ee](https://github.com/user-attachments/assets/0797ecb0-e292-41b5-a7c8-f3d5ee82868f)
-
-Khi tải danh sách nhiều mã từ nguồn masothue.vn, do quá trình tải thông tin và ghi thì cần ứng dụng Excel ở chế độ "rảnh tay", nếu không sẽ ảnh hưởng đến quá trình làm việc của bạn. \
-Vì vậy hãy mở tệp của bạn ở Excel tiến trình khác, có thể nhấn icon Excel gốc phải phía trên của ứng dụng để mở. Lúc này bạn có thể làm việc tại Excel chính.
-
-
-### Ví dụ
-
-Bạn cần có danh sách như bảng tính Excel bên dưới \
-Mở ứng dụng tải thông tin, tại mục ```Thiết lập cột tìm kiếm```, hãy chọn trang tính tương ứng và nhập ```A1``` vào mục ```Nhập ô tiêu đề``` vì ô ```A1``` là tiêu đề cột MST/CCCD.  \
-Thứ tự cột tính từ cột A là 0, cột B sẽ là 1, từ đó thiết lập cột ghi dữ liệu​.
-
-![image](https://github.com/user-attachments/assets/44047f32-45db-49b8-96a8-f0793dc57833)
-
-
-### Bảng thiết lập cột dữ liệu
-![image](https://github.com/user-attachments/assets/f08ff137-75bb-44fa-9e4b-a46a1ca3e151)
+1. Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tìm kiếm.
+2. Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân.
+3. Nhập ô bắt đầu, Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
+4. Lưu thiết lập, nhấn "BẮT ĐẦU" để khởi tạo hoặc tìm kiếm ngay
+5. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải.
 
 
 ## Liên hệ của tôi:
