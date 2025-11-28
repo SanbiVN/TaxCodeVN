@@ -28,6 +28,11 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 
 ***Ứng dụng hiện tại chỉ hoạt động trên HĐH Windows (10,11+) có thể cài đặt WebView2 Runtime của microsoft, dự án sẽ hỗ trợ Windows 7 trong tương lai.
 
+***Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
+
+
+
+(chỉ với một trang tra cứu thông tin của quốc gia, nhưng vấn đề gây ra cho người tra cứu quá căng, tôi đã cố hết sức)
 ## Liên hệ của tôi:
 
 #### Zalo 
