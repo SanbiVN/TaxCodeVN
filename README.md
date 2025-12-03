@@ -1,5 +1,5 @@
 # TaxCode - Tra cứu mã số thuế
- Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thế \
+ Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế \
  Sử dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
 
  <img width="1548" height="137" alt="image" src="https://github.com/user-attachments/assets/ed80cbb3-92fc-4884-93b4-49a954328d21" />
@@ -8,10 +8,12 @@
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
 [ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar
+[ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |----------------|----------|----------|
-| TaxCodeVN Add-in    | [TaxCodeVN_v4.2.rar][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]([ptUserAddin])  |
+| TaxCodeVN Add-in | [TaxCodeVN_v4.2.rar][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]([ptUserAddin])  |
+
 
 <!-- 
 [Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
