@@ -7,12 +7,12 @@
 --------------------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.3/TaxCode_v4.3.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |----------------|----------|----------|
-| TaxCodeVN Add-in | [TaxCodeVN_v4.2.rar][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]([ptUserAddin])  |
+| TaxCodeVN Add-in | [TaxCodeVN_v4.3.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)]()  |
 
 
 <!-- 
