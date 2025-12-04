@@ -26,17 +26,16 @@
 
 --------------------------------------------------------------
 ## YÊU CẦU
-Máy tính cài đặt WebView2 Runtime của Microsoft
-		(Sau khi cài add-in và sử dụng chương trình sẽ hỏi cần cài đặt 
-		  hay không nếu phát hiện chưa được cài đặt)
+ Máy tính cài đặt WebView2 Runtime của Microsoft 
+> (Sau khi cài add-in và sử dụng chương trình sẽ hỏi cần cài đặt hay không nếu phát hiện chưa được cài đặt)
 
 ## CÀI ĐẶT
- Tệp Add-in xlam để cài đặt vào Excel \
-	(Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có) \
+ Tệp Add-in xlam để cài đặt vào Excel 
+> Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có 
 	Cài đặt: Thực hiện cài đặt như một Add-in bình thường \
 	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK \
 	(Mở thẻ Deverloper: chuột phải vào thanh Ribbon, chọn Customize the Ribbon) \
- Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
+> Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
  
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
@@ -49,7 +48,7 @@ Máy tính cài đặt WebView2 Runtime của Microsoft
 5. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải.
 
 ### Tra cứu nhanh​
-Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
+> Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
 
 
 --------------------------------------------------------------
@@ -63,9 +62,8 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 
 --------------------------------------------------------------
 ## LƯU Ý CHUNG
-***Ứng dụng hiện tại chỉ hoạt động trên HĐH Windows (10,11+) có thể cài đặt WebView2 Runtime của microsoft, dự án sẽ hỗ trợ Windows 7 trong tương lai.
-
-***Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
+1. Ứng dụng hiện tại chỉ hoạt động trên HĐH Windows (10,11+) có thể cài đặt WebView2 Runtime của microsoft, dự án sẽ hỗ trợ Windows 7 trong tương lai.
+2. Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
 
 (chỉ với một trang tra cứu thông tin của quốc gia, nhưng vấn đề gây ra cho người tra cứu quá căng, tôi đã cố hết sức)
 
