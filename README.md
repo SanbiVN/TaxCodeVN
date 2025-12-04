@@ -31,11 +31,11 @@ Máy tính cài đặt WebView2 Runtime của Microsoft
 		  hay không nếu phát hiện chưa được cài đặt)
 
 ## CÀI ĐẶT
- Tệp Add-in xlam để cài đặt vào Excel
-	(Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có)
-	Cài đặt: Thực hiện cài đặt như một Add-in bình thường
-	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK
-	(Mở thẻ Deverloper: chuột phải vào thanh Ribbon, chọn Customize the Ribbon)
+ Tệp Add-in xlam để cài đặt vào Excel \
+	(Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có) \
+	Cài đặt: Thực hiện cài đặt như một Add-in bình thường \
+	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK \
+	(Mở thẻ Deverloper: chuột phải vào thanh Ribbon, chọn Customize the Ribbon) \
  Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
  
 --------------------------------------------------------------
