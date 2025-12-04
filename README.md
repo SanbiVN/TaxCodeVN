@@ -24,8 +24,20 @@
 
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
+--------------------------------------------------------------
+## YÊU CẦU
+Máy tính cài đặt WebView2 Runtime của Microsoft
+		(Sau khi cài add-in và sử dụng chương trình sẽ hỏi cần cài đặt 
+		  hay không nếu phát hiện chưa được cài đặt)
 
-
+## CÀI ĐẶT
+ Tệp Add-in xlam để cài đặt vào Excel
+	(Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có)
+	Cài đặt: Thực hiện cài đặt như một Add-in bình thường
+	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK
+	(Mở thẻ Deverloper: chuột phải vào thanh Ribbon, chọn Customize the Ribbon)
+ Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
+ 
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
 
@@ -44,6 +56,9 @@ Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dò
 Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hiện, một cơ chế sửa captcha nhanh chóng, với các nút 1, 2, 3, 4, 5 là thứ tự chọn vị trí, sau khi chọn, có thể nhấn phím vật lý hoặc dùng chuột nhấn vào bàn phím ảo có sẵn trên màn hình.
 
 >  <img width="490" height="179" alt="1764294767315" src="https://github.com/user-attachments/assets/65b27735-cfd2-4015-b046-d4738055cdd8" />
+
+
+
 
 
 --------------------------------------------------------------
