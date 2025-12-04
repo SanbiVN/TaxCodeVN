@@ -2,7 +2,7 @@
  Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế \
  Sử dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
 
- <img width="1548" height="137" alt="image" src="https://github.com/user-attachments/assets/ed80cbb3-92fc-4884-93b4-49a954328d21" />
+<img width="1585" height="136" alt="image" src="https://github.com/user-attachments/assets/ba3e9d46-ab05-4f29-9ee6-5fe80efa9d92" />
 
 --------------------------------------------------------------
 ## TẢI XUỐNG
