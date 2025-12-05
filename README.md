@@ -19,9 +19,6 @@
 [Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
  -->
-
-(Lưu ý: Sau khi giải nén tệp tải về, trước khi cài đặt add-in cần vào Properies của tệp trong thư mục bỏ ```Unblock``` tệp xlam trước khi cài đặt vào Excel nếu có) 
-
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
 --------------------------------------------------------------
@@ -31,7 +28,7 @@
 
 ## CÀI ĐẶT
  Tệp Add-in xlam để cài đặt vào Excel 
-> Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có 
+> Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có \
 	Cài đặt: Thực hiện cài đặt như một Add-in bình thường \
 	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK \
 	(Mở thẻ Deverloper: chuột phải vào thanh Ribbon, chọn Customize the Ribbon) \
