@@ -48,6 +48,10 @@
 5. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải.
 > ***Lưu ý: Ô bắt đầu là tiêu đề cột dữ liệu, tiêu đề không được để trống​
 
+Ảnh bên dưới, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
+![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
+
+
 ### Tra cứu nhanh​
 > Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
 
