@@ -1,6 +1,6 @@
 # TaxCode - Tra cứu mã số thuế
- Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế \
- Sử dụng Micosoft Edge WebView2 dựa trên trình IDE twinBasic để viết mã và đóng gói
+Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế ```https://tracuunnt.gdt.gov.vn/```\
+Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để điều khiển tải dữ liệu.
 
 <img width="1585" height="136" alt="image" src="https://github.com/user-attachments/assets/ba3e9d46-ab05-4f29-9ee6-5fe80efa9d92" />
 
@@ -19,12 +19,10 @@
 [Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
  -->
+ Ứng dụng chỉ hoạt động trên HĐH Windows 7 trở lên (Không bao gồm máy sử dụng chip ARM).
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
 --------------------------------------------------------------
-## YÊU CẦU
- Máy tính cài đặt WebView2 Runtime của Microsoft 
-> (Sau khi cài add-in và sử dụng chương trình sẽ hỏi cần cài đặt hay không nếu phát hiện chưa được cài đặt)
 
 ## CÀI ĐẶT
  Tệp Add-in xlam để cài đặt vào Excel 
@@ -64,8 +62,7 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 
 --------------------------------------------------------------
 ## LƯU Ý CHUNG
-1. Ứng dụng hiện tại chỉ hoạt động trên HĐH Windows (10,11+) có thể cài đặt WebView2 Runtime của microsoft, dự án sẽ hỗ trợ Windows 7 trong tương lai.
-2. Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
+Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
 
 (chỉ với một trang tra cứu thông tin của quốc gia, nhưng vấn đề gây ra cho người tra cứu quá căng, tôi đã cố hết sức)
 
