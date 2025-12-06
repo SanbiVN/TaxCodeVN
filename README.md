@@ -2,9 +2,11 @@
 Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế ```https://tracuunnt.gdt.gov.vn/```\
 Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để điều khiển tải dữ liệu.
 
-<img width="1585" height="136" alt="image" src="https://github.com/user-attachments/assets/ba3e9d46-ab05-4f29-9ee6-5fe80efa9d92" />
+(Hình ảnh hiển thị trên thanh ribbon Excel)​
+<img width="1585" height="136" alt="image" src="https://github.com/user-attachments/assets/4ea43ad1-7c2d-4e4d-8214-0c1063e96b08" />
 
---------------------------------------------------------------
+
+------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
 [ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.7/TaxCode_v4.7.zip
