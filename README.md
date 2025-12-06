@@ -46,7 +46,8 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > ***Lưu ý: Ô bắt đầu là tiêu đề cột dữ liệu, tiêu đề không được để trống​
 
 Ảnh bên dưới, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
-![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
+
+> ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
 
 ### Tra cứu nhanh​
