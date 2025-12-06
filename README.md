@@ -19,7 +19,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 [Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
  -->
- Ứng dụng chỉ hoạt động trên HĐH Windows 7 trở lên (Không bao gồm máy sử dụng chip ARM).
+ Ứng dụng chỉ hoạt động trên HĐH Windows 7 trở lên (Không bao gồm máy sử dụng chip ARM). \
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
 --------------------------------------------------------------
