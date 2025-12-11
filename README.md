@@ -27,7 +27,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 --------------------------------------------------------------
 
 ## CÀI ĐẶT
- - Tệp Add-in xlam để cài đặt vào Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên ```TaxTCT```
+ - Tệp Add-in xlam để cài đặt vào Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên ```TaxTCT```. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
 > Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có
 
 > <img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
@@ -35,7 +35,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 >	Cài đặt: Thực hiện cài đặt như một Add-in bình thường \
 	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK \
 	(Mở thẻ Deverloper: chuột phải vào thanh Ribbon, chọn Customize the Ribbon) \
-> Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
+
  
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
