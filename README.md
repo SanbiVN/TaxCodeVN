@@ -59,6 +59,10 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động. 
 >> <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/705919e3-3bed-4ff7-a331-e9b4a59c2416" />
 - Bước 4: Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
+  Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn BẮT ĐẦU:
+> <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
+
+  
 ##### Lưu ý: 
 + Nếu ô bắt đầu là tiêu đề của cột dữ liệu, thì các tiêu đề của các cột ghi dữ liệu không trống​.
 + Nếu muốn tải lại thông tin thì xóa dữ liệu có sẵn và bất đầu lại.
