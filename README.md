@@ -53,7 +53,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
 - Bước 3: Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ```
-> Mặc định chương trình sử dụng WebView2 để tải trang, có tùy chọn dùng trình duyệt đã cài trên máy tính. 
+> Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động. 
 >> <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/705919e3-3bed-4ff7-a331-e9b4a59c2416" />
 - Bước 4: Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
 ##### Lưu ý: 
