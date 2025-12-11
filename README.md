@@ -27,7 +27,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 --------------------------------------------------------------
 
 ## CÀI ĐẶT
- Tệp Add-in xlam để cài đặt vào Excel 
+ - Tệp Add-in xlam để cài đặt vào Excel 
 > Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có \
 	Cài đặt: Thực hiện cài đặt như một Add-in bình thường \
 	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK \
@@ -38,21 +38,29 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ## HƯỚNG DẪN 
 
 ### Tra cứu liên tục tự động
-1. Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tìm kiếm.
-2. Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân.
-3. Nhập ô bắt đầu, Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
-4. Lưu thiết lập, nhấn "BẮT ĐẦU" để khởi tạo hoặc tìm kiếm ngay
-5. Nguồn là Tổng cục thuế nhập Captcha, nhập đủ 5 ký tự, tự động tải.
-> ***Lưu ý: Ô bắt đầu là tiêu đề cột dữ liệu, tiêu đề không được để trống​
+- Bước 1. Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. Nhập ô bắt đầu của danh sách tra cứu.
+> <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
+- Bước 2. Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
+> <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
 
-Ảnh bên dưới, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
+> Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
 
 > ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
+- Bước 3. Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ```
+> Mặc định chương trình sử dụng WebView2 để tải trang, có tùy chọn dùng trình duyệt đã cài trên máy tính. 
+>> <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/705919e3-3bed-4ff7-a331-e9b4a59c2416" />
+- Bước 4. Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
+***Lưu ý: 
+- Nếu ô bắt đầu là tiêu đề của cột dữ liệu, thì các tiêu đề của các cột ghi dữ liệu không trống​.
+- Nếu muốn tải lại thông tin thì xóa dữ liệu có sẵn và bất đầu lại.
+- Khi ứng dụng hoạt động mở Excel ở tiến trình khác (Cửa sổ mới khác tiến khác) để chương trình tải và ghi, không làm ảnh hưởng đến quá trình làm việc với Excel.
 
 ### Tra cứu nhanh​
-> Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
-
+> <img width="210" height="108" alt="image" src="https://github.com/user-attachments/assets/e8a5b318-3d6e-4ae3-9aa9-66a74b272a01" />
+- Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
+- Nhập một thông tin vào hộp để tra cứu nhanh. Không ghi dữ liệu.
+- Hoặc ```Tìm tại ô chọn```, Nếu muốn ghi kết quả, tích chọn hộp kiểm ```Ghi kết quả```
 
 --------------------------------------------------------------
 Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hiện, một cơ chế sửa captcha nhanh chóng, với các nút 1, 2, 3, 4, 5 là thứ tự chọn vị trí, sau khi chọn, có thể nhấn phím vật lý hoặc dùng chuột nhấn vào bàn phím ảo có sẵn trên màn hình.
@@ -60,8 +68,12 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 >  <img width="490" height="179" alt="1764294767315" src="https://github.com/user-attachments/assets/65b27735-cfd2-4015-b046-d4738055cdd8" />
 
 
-
-
+## CÁC NÚT CHỨC NĂNG KHÁC
+> <img width="188" height="105" alt="image" src="https://github.com/user-attachments/assets/159ba15b-6d2e-4168-966d-d6477f5c31a5" />
+1. ```Cập nhật add-in```: nhấn nút để thực hiện kiểm tra hoặc cập nhật Add-in nhanh chóng.
+2. ```Mở tiến trình```: nhấn để xem hướng dẫn mở Excel ở tiến trình khác.
+3. ```Đặt lại```: Nhấn để xóa tất cả thiết lập.
+4. ```Đóng```: Nhấn để đóng cửa sổ tra cứu hoặc thoát add-in nếu không cần sử dụng nữa.
 
 --------------------------------------------------------------
 ## LƯU Ý CHUNG
