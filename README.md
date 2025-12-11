@@ -36,7 +36,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
  
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
-
+(Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
 - Bước 1:
   + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập.
