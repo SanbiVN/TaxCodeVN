@@ -27,7 +27,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 --------------------------------------------------------------
 
 ## CÀI ĐẶT
- - Tệp Add-in xlam để cài đặt vào Excel 
+ - Tệp Add-in xlam để cài đặt vào Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên ```TaxTCT```
 > Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có \
 	Cài đặt: Thực hiện cài đặt như một Add-in bình thường \
 	Trong thẻ Deverloper chọn Excel Add-ins, sau đó chọn nút Browse... vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK \
@@ -38,23 +38,28 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ## HƯỚNG DẪN 
 
 ### Tra cứu liên tục tự động
-- Bước 1. Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. Nhập ô bắt đầu của danh sách tra cứu.
+- Bước 1:
+  + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. 
+  + Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. 
+  + Nhập ô bắt đầu của danh sách tra cứu. 
+  + Tích chọn vào hộp ```Tải liên tục```. 
+  + Chọn cách gợi ý captcha nếu cần thiết.
 > <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
-- Bước 2. Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
+- Bước 2: Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
 > <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
 
 > Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
 
 > ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
-- Bước 3. Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ```
+- Bước 3: Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ```
 > Mặc định chương trình sử dụng WebView2 để tải trang, có tùy chọn dùng trình duyệt đã cài trên máy tính. 
 >> <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/705919e3-3bed-4ff7-a331-e9b4a59c2416" />
-- Bước 4. Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
-***Lưu ý: 
-- Nếu ô bắt đầu là tiêu đề của cột dữ liệu, thì các tiêu đề của các cột ghi dữ liệu không trống​.
-- Nếu muốn tải lại thông tin thì xóa dữ liệu có sẵn và bất đầu lại.
-- Khi ứng dụng hoạt động mở Excel ở tiến trình khác (Cửa sổ mới khác tiến khác) để chương trình tải và ghi, không làm ảnh hưởng đến quá trình làm việc với Excel.
+- Bước 4: Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
+##### Lưu ý: 
++ Nếu ô bắt đầu là tiêu đề của cột dữ liệu, thì các tiêu đề của các cột ghi dữ liệu không trống​.
++ Nếu muốn tải lại thông tin thì xóa dữ liệu có sẵn và bất đầu lại.
++ Khi ứng dụng hoạt động mở Excel ở tiến trình khác (Cửa sổ mới khác tiến khác) để chương trình tải và ghi, không làm ảnh hưởng đến quá trình làm việc với Excel.
 
 ### Tra cứu nhanh​
 > <img width="210" height="108" alt="image" src="https://github.com/user-attachments/assets/e8a5b318-3d6e-4ae3-9aa9-66a74b272a01" />
