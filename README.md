@@ -39,7 +39,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 
 ### Tra cứu liên tục tự động
 - Bước 1:
-  + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. 
+  + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập.
   + Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. 
   + Nhập ô bắt đầu của danh sách tra cứu. 
   + Tích chọn vào hộp ```Tải liên tục```. 
