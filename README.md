@@ -9,12 +9,12 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.16/TaxCode_v4.16.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.17/TaxCode_v4.17.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |----------------|----------|----------|
-| TaxCodeVN Add-in | [TaxCode_v4.16.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.16/TaxCode_v4.16.zip)  |
+| TaxCodeVN Add-in | [TaxCode_v4.17.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.17/TaxCode_v4.17.zip)  |
 
 
 <!-- 
@@ -81,7 +81,7 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 1. ```Cập nhật add-in```: nhấn nút để thực hiện kiểm tra hoặc cập nhật Add-in nhanh chóng.
 2. ```Mở tiến trình```: nhấn để xem hướng dẫn mở Excel ở tiến trình khác.
 3. ```Đặt lại```: Nhấn để xóa tất cả thiết lập.
-4. ```Đóng```: Nhấn để đóng cửa sổ tra cứu hoặc thoát add-in nếu không cần sử dụng nữa.
+4. ```Đóng```: Nhấn để đóng cửa sổ tra cứu, trình cập nhật chạy ngầm hoặc thoát add-in nếu không cần sử dụng nữa.
 
 --------------------------------------------------------------
 ## LƯU Ý CHUNG
