@@ -9,12 +9,12 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.19/TaxCode_v4.19.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.20/TaxCode_v4.20.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |----------------|----------|----------|
-| TaxCodeVN Add-in | [TaxCode_v4.19.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.19/TaxCode_v4.19.zip)  |
+| TaxCodeVN Add-in | [TaxCode_v4.20.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.20/TaxCode_v4.20.zip)  |
 
 
 <!-- 
@@ -56,7 +56,8 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
 - Bước 3: Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ``` mỗi lượt tải.
-> Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động. 
+> Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động.
+> Tùy chọn trình duyệt chuẩn khi sử dụng ở máy tính Công Ty, vì các cách khác có thể bị chặn.
 >> <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/705919e3-3bed-4ff7-a331-e9b4a59c2416" />
 - Bước 4: Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
   Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn BẮT ĐẦU:
