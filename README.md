@@ -3,7 +3,7 @@ Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn d�
 Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để điều khiển tải dữ liệu.
 
 (Hình ảnh hiển thị trên thanh ribbon Excel)​
-<img width="1585" height="136" alt="image" src="https://github.com/user-attachments/assets/4ea43ad1-7c2d-4e4d-8214-0c1063e96b08" />
+<img width="1566" height="136" alt="image" src="https://github.com/user-attachments/assets/cf24d8f8-8f97-4d2b-a196-2b7bef47cb1b" />
 
 
 ------------------------------------------------
@@ -58,7 +58,8 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 - Bước 3: Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ``` mỗi lượt tải.
 > Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động.
 > Tùy chọn trình duyệt chuẩn khi sử dụng ở máy tính Công Ty, vì các cách khác có thể bị chặn.
->> <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/705919e3-3bed-4ff7-a331-e9b4a59c2416" />
+>> <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
+
 - Bước 4: Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
   Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn BẮT ĐẦU:
 > <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
