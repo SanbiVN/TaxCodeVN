@@ -33,35 +33,35 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > <img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
 
 - Thực hiện cài đặt Add-in: 
-  + Nếu chưa có tab Deverloper: nhấn chuột phải vào thanh Ribbon, chọn ```Customize the Ribbon```.
-  + Trong thẻ Deverloper chọn ```Excel Add-ins```, sau đó chọn nút ```Browse...``` vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK 
-  + Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào ```Task Manager``` cần End Task ứng dụng Excel chạy ngầm.
+  + Nếu chưa có tab Deverloper: nhấn chuột phải vào thanh Ribbon, chọn **```Customize the Ribbon```**.
+  + Trong thẻ Deverloper chọn **```Excel Add-ins```**, sau đó chọn nút **```Browse...```** vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK 
+  + Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào **```Task Manager```** cần End Task ứng dụng Excel chạy ngầm.
  
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
-- Bước 1:
+- **Bước 1**:
   + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập.
   + Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. 
   + Nhập ô bắt đầu của danh sách tra cứu. 
-  + Tích chọn vào hộp ```Tải liên tục```. 
+  + Tích chọn vào hộp **```Tải liên tục```**. 
   + Chọn cách gợi ý captcha nếu cần thiết.
 > <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
-- Bước 2: Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
+- **Bước 2**: Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
 > <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
 
 > Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
 
 > ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
-- Bước 3: Nếu muốn tải chi nhánh, tích chọn vào ```Thông tin chi nhánh```, chọn thời gian ```độ trễ``` mỗi lượt tải.
+- **Bước 3**: Nếu muốn tải chi nhánh, tích chọn vào **```Thông tin chi nhánh```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
 > Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động.
 > Tùy chọn trình duyệt chuẩn khi sử dụng ở máy tính Công Ty, vì các cách khác có thể bị chặn.
 >> <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
 
-- Bước 4: Nhấn lưu thiết lập và nhấn ```BẮT ĐẦU``` để tự động tra cứu và tải về ghi vào trang tính.
-  Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn BẮT ĐẦU:
+- **Bước 4**: Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính.
+  Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn **BẮT ĐẦU**:
 > <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
 
   
@@ -74,7 +74,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > <img width="210" height="108" alt="image" src="https://github.com/user-attachments/assets/e8a5b318-3d6e-4ae3-9aa9-66a74b272a01" />
 - Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
 - Nhập một thông tin vào hộp để tra cứu nhanh. Không ghi dữ liệu.
-- Hoặc ```Tìm tại ô chọn```, Nếu muốn ghi kết quả, tích chọn hộp kiểm ```Ghi kết quả```
+- Hoặc **```Tìm tại ô chọn```**, Nếu muốn ghi kết quả, tích chọn hộp kiểm **```Ghi kết quả```**
 
 --------------------------------------------------------------
 Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hiện, một cơ chế sửa captcha nhanh chóng, với các nút 1, 2, 3, 4, 5 là thứ tự chọn vị trí, sau khi chọn, có thể nhấn phím vật lý hoặc dùng chuột nhấn vào bàn phím ảo có sẵn trên màn hình.
@@ -84,10 +84,10 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 
 ## CÁC NÚT CHỨC NĂNG KHÁC
 > <img width="188" height="105" alt="image" src="https://github.com/user-attachments/assets/159ba15b-6d2e-4168-966d-d6477f5c31a5" />
-1. ```Cập nhật add-in```: nhấn nút để thực hiện kiểm tra hoặc cập nhật Add-in nhanh chóng.
-2. ```Mở tiến trình```: nhấn để xem hướng dẫn mở Excel ở tiến trình khác.
-3. ```Đặt lại```: Nhấn để xóa tất cả thiết lập.
-4. ```Đóng```: Nhấn để đóng cửa sổ tra cứu, trình cập nhật chạy ngầm hoặc thoát add-in nếu không cần sử dụng nữa.
+1. **Cập nhật add-in**: nhấn nút để thực hiện kiểm tra hoặc cập nhật Add-in nhanh chóng.
+2. **Mở tiến trình**: nhấn để xem hướng dẫn mở Excel ở tiến trình khác.
+3. **Đặt lại**: Nhấn để xóa tất cả thiết lập.
+4. **Đóng**: Nhấn để đóng cửa sổ tra cứu, trình cập nhật chạy ngầm hoặc thoát add-in nếu không cần sử dụng nữa.
 
 --------------------------------------------------------------
 ## LƯU Ý CHUNG
