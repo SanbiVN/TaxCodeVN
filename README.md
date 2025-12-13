@@ -9,12 +9,12 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.20/TaxCode_v4.20.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.21/TaxCode_v4.21.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |----------------|----------|----------|
-| TaxCodeVN Add-in | [TaxCode_v4.20.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.20/TaxCode_v4.20.zip)  |
+| TaxCodeVN Add-in | [TaxCode_v4.21.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.21/TaxCode_v4.21.zip)  |
 
 
 <!-- 
@@ -48,7 +48,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
   + Tích chọn vào hộp **```Tải liên tục```**. 
   + Chọn cách gợi ý captcha nếu cần thiết.
 > <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
-- **Bước 2**: Thiết lập cột ghi dữ liệu tính từ ô bắt đầu, nhập số thứ tự vào hộp nhập, để xác định cột ghi kết quả, để 0 thì bỏ qua. 
+- **Bước 2**: Thiết lập cột ghi dữ liệu, có thể nhập cột ký tự A-Z, hoặc nhập số thứ tự tính từ ô bắt đầu, để xác định cột ghi kết quả, để trống hoặc 0 thì bỏ qua. 
 > <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
 
 > Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
