@@ -33,7 +33,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 > <img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
 
 - Thực hiện cài đặt Add-in: 
-  + Nếu chưa có tab Deverloper: nhấn chuột phải vào thanh Ribbon, chọn **```Customize the Ribbon```**.
+  + Nếu chưa có tab Deverloper hiển thị trên thanh Ribbon (Thanh công cụ): nhấn chuột phải vào thanh Ribbon, chọn **```Customize the Ribbon```**.
   + Trong thẻ Deverloper chọn **```Excel Add-ins```**, sau đó chọn nút **```Browse...```** vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK 
   + Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào **```Task Manager```** cần End Task ứng dụng Excel chạy ngầm.
  
