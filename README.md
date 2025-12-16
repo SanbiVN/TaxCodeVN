@@ -9,12 +9,12 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.23/TaxCode_v4.23.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.24/TaxCode_v4.24.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |----------------|----------|----------|
-| TaxCodeVN Add-in | [TaxCode_v4.23.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.23/TaxCode_v4.23.zip)  |
+| TaxCodeVN Add-in | [TaxCode_v4.24.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.24/TaxCode_v4.24.zip)  |
 
 
 <!-- 
@@ -26,16 +26,20 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 
 --------------------------------------------------------------
 
-## CÀI ĐẶT
- - Tệp Add-in xlam để cài đặt vào Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên ```TaxTCT```. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới
-> Sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có
+## HƯỚNG DẪN CÀI ĐẶT
+Tệp Add-in xlam để cài đặt vào Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên ```TaxTCT```. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. \
+Giải nén vào một thư mục được đặt tên phù hợp, sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có.
 
 > <img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
 
-- Thực hiện cài đặt Add-in: 
-  + Nếu chưa có tab Deverloper hiển thị trên thanh Ribbon (Thanh công cụ): nhấn chuột phải vào thanh Ribbon, chọn **```Customize the Ribbon```**.
-  + Trong thẻ Deverloper chọn **```Excel Add-ins```**, sau đó chọn nút **```Browse...```** vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK 
-  + Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào **```Task Manager```** cần End Task ứng dụng Excel chạy ngầm.
+**Cách 1:** 
+- Mở trực tiếp Add-in hoặc nhấn chuột vào tệp để mở, trong Excel cần **```Enabled Macro```** để chương trình hoạt động. 
+- Nếu chương trình chưa cài đặt khởi động cùng Excel, khi nhấn **BẮT ĐẦU** chương trình sẽ hỏi có cài đặt khởi động vào Excel không?
+
+**Cách 2:** Thực hiện cài đặt Add-in bằng tay: 
+  - Nếu chưa có tab Deverloper hiển thị trên thanh Ribbon (Thanh công cụ): nhấn chuột phải vào thanh Ribbon, chọn **```Customize the Ribbon```**.
+  - Trong thẻ Deverloper chọn **```Excel Add-ins```**, sau đó chọn nút **```Browse...```** vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK 
+  - Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào **```Task Manager```** cần End Task ứng dụng Excel chạy ngầm.
  
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
