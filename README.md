@@ -42,6 +42,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
   - Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào **```Task Manager```** cần End Task ứng dụng Excel chạy ngầm.
 
  Nếu ứng dụng bị chặn không cho chạy macro thì hãy vào Cài đặt Excel, vào Trust Center, vào tạo đường dẫn thư mục an toàn cho thư mục chứa add-in tải về.
+ 
 --------------------------------------------------------------
 ## HƯỚNG DẪN 
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
