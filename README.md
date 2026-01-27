@@ -1,20 +1,20 @@
 # TaxCode - Tra cứu mã số thuế
 Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế ```https://tracuunnt.gdt.gov.vn/```\
+Và từ nguồn bên ngoài như masothue và thuvienphapluat\
 Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để điều khiển tải dữ liệu.
 
 (Hình ảnh hiển thị trên thanh ribbon Excel)​
-<img width="1566" height="136" alt="image" src="https://github.com/user-attachments/assets/cf24d8f8-8f97-4d2b-a196-2b7bef47cb1b" />
-
+<img width="1578" height="175" alt="image" src="https://github.com/user-attachments/assets/d9382a0b-9a60-47ba-8cfe-1f7cc5bdfa6d" />
 
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.28/TaxCode_v4.28.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.29/TaxCode_v4.29.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |--------------|-----------|----------|
-| TaxCode Add-in Excel | [TaxCode_v4.28.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total?style=for-the-badge)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.28/TaxCode_v4.28.zip)  |
+| TaxCode Add-in Excel | [TaxCode_v4.29.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total?style=for-the-badge)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.29/TaxCode_v4.29.zip)  |
 
 
 <!-- 
@@ -51,8 +51,9 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
   + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập.
   + Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. 
   + Nhập ô bắt đầu của danh sách tra cứu. 
-  + Tích chọn vào hộp **```Tải liên tục```**. 
-  + Chọn cách gợi ý captcha nếu cần thiết.
+  + Tích chọn nguồn tải dữ liệu. 
+  + Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn Tổng cục thuế. 
+  + Chọn cách gợi ý captcha nếu cần thiết nếu là nguồn Tổng cục thuế.
 > <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
 - **Bước 2**: Thiết lập cột ghi dữ liệu, có thể nhập cột ký tự A-Z, hoặc nhập số thứ tự tính từ ô bắt đầu, để xác định cột ghi kết quả, để trống hoặc 0 thì bỏ qua. 
 > <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
