@@ -9,7 +9,7 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.31/TaxCode_v4.33.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.33/TaxCode_v4.33.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
