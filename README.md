@@ -44,7 +44,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
  Nếu ứng dụng bị chặn không cho chạy macro thì hãy vào Cài đặt Excel, vào Trust Center, vào tạo đường dẫn thư mục an toàn cho thư mục chứa add-in tải về.
  
 --------------------------------------------------------------
-## HƯỚNG DẪN 
+## HƯỚNG DẪN SỬ DỤNG
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
 - **Bước 1**:
