@@ -6,6 +6,18 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 (Hình ảnh hiển thị trên thanh ribbon Excel)​
 <img width="1578" height="175" alt="image" src="https://github.com/user-attachments/assets/d9382a0b-9a60-47ba-8cfe-1f7cc5bdfa6d" />
 
+### DANH MỤC
+- [TẢI XUỐNG](#tải-xuống)
+- [HƯỚNG DẪN CÀI ĐẶT](#hướng-dẫn-cài-đặt)
+- [HƯỚNG DẪN SỬ DỤNG](#hướng-dẫn-sử-dụng)
+  - [Tra cứu liên tục tự động](#tra-cứu-liên-tục-tự-động)
+  - [Tra cứu nhanh](#tra-cứu-nhanh)
+- [CÁC NÚT CHỨC NĂNG KHÁC](#các-nút-chức-năng-khác)
+- [LƯU Ý CHUNG](#lưu-ý-chung)
+- [Liên hệ](#liên-hệ)
+
+  
+
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
@@ -103,7 +115,7 @@ Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api
 (chỉ với một trang tra cứu thông tin của quốc gia, nhưng vấn đề gây ra cho người tra cứu quá căng, tôi đã cố hết sức)
 
 --------------------------------------------------------------
-## Liên hệ của tôi:
+## Liên hệ
 
 #### Zalo 
 Zalo: 0384170514
