@@ -21,12 +21,12 @@ Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để đ
 ------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.35/TaxCode_v4.35.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.36/TaxCode_v4.36.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 |  Thông tin   | Tải xuống | Lượt tải |
 |--------------|-----------|----------|
-| TaxCode Add-in Excel | [TaxCode_v4.35.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.35/TaxCode_v4.35.zip)  |
+| TaxCode Add-in Excel | [TaxCode_v4.36.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.36/TaxCode_v4.36.zip)  |
 
 
 <!-- 
