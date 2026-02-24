@@ -79,7 +79,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 > Tùy chọn trình duyệt chuẩn khi sử dụng ở máy tính Công Ty, vì các cách khác có thể bị chặn.
 >> <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
 
-- **Bước 4**: Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính.
+- **Bước 4**: Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính. Nếu không khởi chạy được có thể do trình quét virus chặn, nên tạm thời tắt đi
   Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn **BẮT ĐẦU**:
 > <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
 
