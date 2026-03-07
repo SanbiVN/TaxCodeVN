@@ -74,9 +74,9 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 
 > ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
-- **Bước 3**: Nếu muốn tải chi nhánh, tích chọn vào **```Thông tin chi nhánh```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
-> Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView không hoạt động.
-> Tùy chọn trình duyệt chuẩn khi sử dụng ở máy tính Công Ty, vì các cách khác có thể bị chặn.
+- **Bước 3**: Nếu muốn tải mã số thuế thứ 2+, tích chọn vào **```Thông tin mst thứ 2+```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
+> Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView2 không hoạt động.
+
 >> <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
 
 - **Bước 4**: Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính. Nếu không khởi chạy được có thể do trình quét virus chặn, nên tạm thời tắt đi
