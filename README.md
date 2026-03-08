@@ -1,7 +1,7 @@
 # TaxCode - Tra cứu mã số thuế
-Tra cứu mã số thuế cá nhân và doanh nghiệp cho Excel từ nguồn dữ liệu Tổng cục thuế ```https://tracuunnt.gdt.gov.vn/```\
+Tra cứu mã số thuế cá nhân và doanh nghiệp từ nguồn dữ liệu Tổng cục thuế ```https://tracuunnt.gdt.gov.vn/```\
 Và từ nguồn bên ngoài như masothue và thuvienphapluat\
-Add-in sử dụng công nghệ Web nhân Chromium và WebView2 Runtime để điều khiển tải dữ liệu.
+Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để điều khiển tải dữ liệu.
 
 (Hình ảnh hiển thị trên thanh ribbon Excel)​
 <img width="1578" height="175" alt="image" src="https://github.com/user-attachments/assets/d9382a0b-9a60-47ba-8cfe-1f7cc5bdfa6d" />
