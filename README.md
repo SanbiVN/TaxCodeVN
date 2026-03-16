@@ -27,7 +27,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 
 |  Thông tin   | Tải xuống | Lượt tải | Chi tiết |
 |--------------|-----------|----------|----------|
-| TaxCode Add-in | [TaxCode_v4.39.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip)  | Cài đặt và sử dụng trong Excel|
+| TaxCode Add-in | [TaxCode_v4.39.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip)  | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
 | TaxTCT EXE | [TaxTCT_v4.39.zip][ptUserExe] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxTCT_v4.39.zip)  | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
 
 
@@ -41,7 +41,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 --------------------------------------------------------------
 
 ## HƯỚNG DẪN CÀI ĐẶT
-Tệp Add-in xlam để cài đặt vào Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên ```TaxTCT```. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. \
+
 Giải nén vào một thư mục được đặt tên phù hợp, sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có.
 > <img width="377" height="389" alt="image" src="https://github.com/user-attachments/assets/e8cf3b18-41ab-433f-a873-b32b76e079de" /><img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
 
