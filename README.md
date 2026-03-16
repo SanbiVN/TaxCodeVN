@@ -66,11 +66,11 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 - **Bước 1**:
    - <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
    - Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập
-   - Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân.
+   - Chọn mục tìm kiếm là **Doanh nghiệp/Cá Nhân**.
    - Nhập ô bắt đầu của danh sách tra cứu.
    - Tích chọn nguồn tải dữ liệu.
-   - Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn Tổng cục thuế.
-   - Chọn cách gợi ý captcha nếu cần thiết nếu là nguồn Tổng cục thuế.
+   - Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn **Tổng cục thuế**.
+   - Chọn cách gợi ý captcha nếu cần thiết khi chọn nguồn **Tổng cục thuế**.
 
 - **Bước 2**:
    - <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
