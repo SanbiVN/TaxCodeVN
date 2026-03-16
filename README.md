@@ -19,16 +19,19 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
   
 
 ------------------------------------------------
-## TẢI XUỐNG
+## TẢI XUỐNG [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/) 
 <!-- items that need to be updated release to release -->
 [ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip
 [ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxTCT_v4.39.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
-|  Thông tin   | Tải xuống | Lượt tải | Chi tiết |
-|--------------|-----------|----------|----------|
-| TaxCode Add-in | [TaxCode_v4.39.zip][ptUserAddin] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip)  | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
-| TaxTCT EXE | [TaxTCT_v4.39.zip][ptUserExe] | [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxTCT_v4.39.zip)  | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
+
+ 
+ 
+|  Thông tin   | Tải xuống |  Chi tiết |
+|--------------|-----------|----------|
+| TaxCode Add-in | [TaxCode_v4.39.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
+| TaxTCT EXE | [TaxTCT_v4.39.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
 
 
 <!-- 
