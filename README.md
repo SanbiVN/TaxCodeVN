@@ -19,14 +19,14 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
   
 
 ------------------------------------------------
-## TẢI XUỐNG [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/) 
+## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
 [ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip
 [ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxTCT_v4.39.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 
- 
+  [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/) 
  
 |  Thông tin   | Tải xuống |  Chi tiết |
 |--------------|-----------|----------|
@@ -64,28 +64,30 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
 - **Bước 1**:
-  + Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập.
-  + Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân. 
-  + Nhập ô bắt đầu của danh sách tra cứu. 
-  + Tích chọn nguồn tải dữ liệu. 
-  + Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn Tổng cục thuế. 
-  + Chọn cách gợi ý captcha nếu cần thiết nếu là nguồn Tổng cục thuế.
-> <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
-- **Bước 2**: Thiết lập cột ghi dữ liệu, có thể nhập cột ký tự A-Z, hoặc nhập số thứ tự tính từ ô bắt đầu, để xác định cột ghi kết quả, để trống hoặc 0 thì bỏ qua. 
-> <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
+   - <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
+   - Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập
+   - Chọn mục tìm kiếm là Doanh nghiệp/Cá Nhân.
+   - Nhập ô bắt đầu của danh sách tra cứu.
+   - Tích chọn nguồn tải dữ liệu.
+   - Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn Tổng cục thuế.
+   - Chọn cách gợi ý captcha nếu cần thiết nếu là nguồn Tổng cục thuế.
 
-> Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
+- **Bước 2**:
+   - <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
+   - Thiết lập cột ghi dữ liệu, có thể nhập cột ký tự A-Z, hoặc nhập số thứ tự tính từ ô bắt đầu, để xác định cột ghi kết quả, để trống hoặc 0 thì bỏ qua. 
+   - Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
 
-> ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
+   - ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
-- **Bước 3**: Nếu muốn tải mã số thuế thứ 2+, tích chọn vào **```Thông tin mst thứ 2+```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
-> Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView2 không hoạt động.
+- **Bước 3**:
+   - <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
+   - Nếu muốn tải mã số thuế thứ 2+, tích chọn vào **```Thông tin mst thứ 2+```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
+   - Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView2 không hoạt động.
 
->> <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
-
-- **Bước 4**: Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính. Nếu không khởi chạy được có thể do trình quét virus chặn, nên tạm thời tắt đi
-  Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn **BẮT ĐẦU**:
-> <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
+- **Bước 4**:
+   - <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
+   - Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính. Nếu không khởi chạy được có thể do trình quét virus chặn, nên tạm thời tắt đi
+   - Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn **BẮT ĐẦU**:
 
   
 ##### Lưu ý: 
