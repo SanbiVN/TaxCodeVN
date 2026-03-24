@@ -18,8 +18,6 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 - [Liên hệ](#liên-hệ)
 
   
-
-------------------------------------------------
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
 [ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip
@@ -42,7 +40,6 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
  Ứng dụng chỉ hoạt động trên HĐH Windows 10 trở lên (Không bao gồm máy sử dụng chip ARM). \
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
---------------------------------------------------------------
 ## HƯỚNG DẪN TÓM TẮT
  - Dành cho Excel Add-in:
     - **Tải tệp về** > **Giải nén vào thư mục phù hợp** > **Bỏ block tệp (nếu có)**
@@ -51,6 +48,14 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
     - Tải về mở ứng dụng > nút Nhập danh sách tra cứu chỉ 1 cột hoặc sao chép cột chỉ có mã tra cứu, trong ứng dụng có nút dán
     - Thiết lập các mục cần thiết.
     - Tải xong, có nút mở để mở thư mục chứa tệp lưu.
+
+## VIDEO HƯỚNG DẪN
+
+---
+
+[<img width="600" height="595" alt="Hướng dẫn" src="https://github.com/SanbiVN/TaxCodeVN/blob/main/huongdan.mp4" />](https://github.com/SanbiVN/TaxCodeVN/blob/main/huongdan.mp4)
+
+---
 
 ## HƯỚNG DẪN CÀI ĐẶT
 
@@ -68,7 +73,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 
  Nếu ứng dụng bị chặn không cho chạy macro thì hãy vào Cài đặt Excel, vào Trust Center, vào tạo đường dẫn thư mục an toàn cho thư mục chứa add-in tải về.
  
---------------------------------------------------------------
+
 ## HƯỚNG DẪN SỬ DỤNG
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
@@ -123,13 +128,13 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 3. **Đặt lại**: Nhấn để xóa tất cả thiết lập.
 4. **Đóng**: Nhấn để đóng cửa sổ tra cứu, trình cập nhật chạy ngầm hoặc thoát add-in nếu không cần sử dụng nữa.
 
---------------------------------------------------------------
+
 ## LƯU Ý CHUNG
 Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
 
 (chỉ với một trang tra cứu thông tin của quốc gia, nhưng vấn đề gây ra cho người tra cứu quá căng, tôi đã cố hết sức)
 
---------------------------------------------------------------
+
 ## Liên hệ
 
 #### Zalo 
