@@ -53,7 +53,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 
 ---
 
-[<img width="600" height="595" alt="Hướng dẫn" src="https://github.com/SanbiVN/TaxCodeVN/blob/main/huongdan.mp4" />](https://github.com/SanbiVN/TaxCodeVN/blob/main/huongdan.mp4)
+[<img width="600" height="595" alt="Hướng dẫn" src="https://github.com/SanbiVN/TaxCodeVN/raw/refs/heads/main/huongdan.mp4" />](https://github.com/SanbiVN/TaxCodeVN/blob/main/huongdan.mp4)
 
 ---
 
