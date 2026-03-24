@@ -42,6 +42,14 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
 --------------------------------------------------------------
+## HƯỚNG DẪN TÓM TẮT
+ - Dành cho Excel Add-in:
+    - **Tải tệp về** > **Giải nén vào thư mục phù hợp** > **Bỏ block tệp (nếu có)**
+    - **Nhấn vào tệp TaxCode.xlam để mở với Excel** > **Thiết lập cho tra cứu gồm cột dữ liệu**
+ - Dành cho ứng dụng exe:
+    - Tải về mở ứng dụng > nút Nhập danh sách tra cứu chỉ 1 cột hoặc sao chép cột chỉ có mã tra cứu, trong ứng dụng có nút dán
+    - Thiết lập các mục cần thiết.
+    - Tải xong, có nút mở để mở thư mục chứa tệp lưu.
 
 ## HƯỚNG DẪN CÀI ĐẶT
 
