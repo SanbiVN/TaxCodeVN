@@ -24,8 +24,14 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 [ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxTCT_v4.39.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
+<!-- 
+  <picture><img height="28px" alt="" title="Downloads count" src="https://raw.githubusercontent.com/GyulyVGC/GyulyVGC.github.io/master/assets/img/downloads_badge.svg"/></picture>
+-->
 
-  [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/) 
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/) 
+<a href="https://github.com/SanbiVN/TaxCodeVN/releases/latest"><img height="20px" alt="" title="Latest version" src="https://img.shields.io/github/v/release/SanbiVN/TaxCodeVN?color=blue&label=version&logo=github&style=for-the-badge"/></a>
+
+
  
 |  Thông tin   | Tải xuống |  Chi tiết |
 |--------------|-----------|----------|
