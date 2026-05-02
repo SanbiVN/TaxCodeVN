@@ -65,6 +65,8 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 Giải nén vào một thư mục được đặt tên phù hợp, sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có.
 > <img width="377" height="389" alt="image" src="https://github.com/user-attachments/assets/e8cf3b18-41ab-433f-a873-b32b76e079de" /><img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
 
+(Đừng bỏ cuộc nếu bạn chưa biết đến các bước cài đặt căn bản cho tệp Excel, đó là: Tạo thư mục an toàn trong thiết lập của Excel để Excel nhận diện)
+
 **Cách 1:** 
 - Mở trực tiếp Add-in hoặc nhấn chuột vào tệp để mở, trong Excel cần **```Enabled Macro```** để chương trình hoạt động. 
 - Nếu chương trình chưa cài đặt khởi động cùng Excel, khi nhấn **BẮT ĐẦU** chương trình sẽ hỏi có cài đặt khởi động vào Excel không?
