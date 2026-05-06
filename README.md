@@ -20,8 +20,8 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
   
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.40/TaxCode_v4.40.zip
-[ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.40/TaxTCT_v4.40.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.41/TaxCode_v4.41.zip
+[ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.41/TaxTCT_v4.41.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 <!-- 
@@ -35,8 +35,8 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
  
 |  Thông tin   | Tải xuống |  Chi tiết |
 |--------------|-----------|----------|
-| TaxCode Add-in | [TaxCode_v4.40.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
-| TaxTCT EXE | [TaxTCT_v4.40.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
+| TaxCode Add-in | [TaxCode_v4.41.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
+| TaxTCT EXE | [TaxTCT_v4.41.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
 
 
 <!-- 
