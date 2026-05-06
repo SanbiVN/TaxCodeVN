@@ -20,7 +20,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
   
 ## TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxCode_v4.39.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.40/TaxCode_v4.40.zip
 [ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.39/TaxTCT_v4.39.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
@@ -35,7 +35,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
  
 |  Thông tin   | Tải xuống |  Chi tiết |
 |--------------|-----------|----------|
-| TaxCode Add-in | [TaxCode_v4.39.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
+| TaxCode Add-in | [TaxCode_v4.40.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
 | TaxTCT EXE | [TaxTCT_v4.39.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
 
 
@@ -85,7 +85,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 - **Bước 1**:
    - <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
    - Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập
-   - Chọn mục tìm kiếm là **Doanh nghiệp/Cá Nhân**.
+   - Chọn mục tìm kiếm về **Doanh nghiệp/Cá Nhân**. (Cá nhân gồm Hộ kinh doanh)
    - Nhập ô bắt đầu của danh sách tra cứu.
    - Tích chọn nguồn tải dữ liệu.
    - Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn **Tổng cục thuế**.
@@ -100,7 +100,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 
 - **Bước 3**:
    - <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
-   - Nếu muốn tải mã số thuế thứ 2+, tích chọn vào **```Thông tin mst thứ 2+```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
+   - Nếu muốn tải thông tin thứ 2 nếu có, tích chọn vào **```Thông tin thứ 2+```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
    - Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView2 không hoạt động.
 
 - **Bước 4**:
