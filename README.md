@@ -9,7 +9,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 ### 📚DANH MỤC
 - [TẢI XUỐNG](#tải-xuống)
 - [HƯỚNG DẪN TÓM TẮT](#hướng-dẫn-tóm-tắt)
-- [VIDEO HƯỚNG DẪN](#video_hướng-dẫn)
+- [VIDEO HƯỚNG DẪN](#video-hướng-dẫn)
 - [HƯỚNG DẪN CÀI ĐẶT](#hướng-dẫn-cài-đặt)
 - [HƯỚNG DẪN SỬ DỤNG](#%EF%B8%8F%E2%80%8D%EF%B8%8Fhướng-dẫn-sử-dụng)
   - [Tra cứu liên tục tự động](#tra-cứu-liên-tục-tự-động)
