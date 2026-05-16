@@ -1,4 +1,4 @@
-# TaxCode - Tra cứu mã số thuế
+# TaxCode✨ - Tra cứu mã số thuế
 Tra cứu mã số thuế cá nhân và doanh nghiệp từ nguồn dữ liệu Tổng cục thuế ```https://tracuunnt.gdt.gov.vn/```\
 Và từ nguồn bên ngoài như masothue và thuvienphapluat\
 Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để điều khiển tải dữ liệu.
@@ -6,24 +6,25 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 (Hình ảnh hiển thị trên thanh ribbon Excel)​
 <img width="1578" height="175" alt="image" src="https://github.com/user-attachments/assets/d9382a0b-9a60-47ba-8cfe-1f7cc5bdfa6d" />
 
-### DANH MỤC
-- [TẢI XUỐNG](#tải-xuống)
-- [HƯỚNG DẪN TÓM TẮT](#hướng-dẫn-tóm-tắt)
-- [HƯỚNG DẪN CÀI ĐẶT](#hướng-dẫn-cài-đặt)
-- [HƯỚNG DẪN SỬ DỤNG](#hướng-dẫn-sử-dụng)
+### 📚DANH MỤC
+- [TẢI XUỐNG](#🚀tải-xuống)
+- [HƯỚNG DẪN TÓM TẮT](#⚡hướng-dẫn-tóm-tắt)
+- [VIDEO HƯỚNG DẪN](#▶VIDEO_HƯỚNG_DẪN)
+- [HƯỚNG DẪN CÀI ĐẶT](#🛠️hướng-dẫn-cài-đặt)
+- [HƯỚNG DẪN SỬ DỤNG](#🕵️‍♂️hướng-dẫn-sử-dụng)
   - [Tra cứu liên tục tự động](#tra-cứu-liên-tục-tự-động)
   - [Tra cứu nhanh](#tra-cứu-nhanh)
 - [CÁC NÚT CHỨC NĂNG KHÁC](#các-nút-chức-năng-khác)
-- [LƯU Ý CHUNG](#lưu-ý-chung)
-- [Liên hệ](#liên-hệ)
+- [LƯU Ý CHUNG](#⚠️lưu-ý-chung)
+- [Liên hệ](#🚩liên-hệ)
 
   
-## TẢI XUỐNG
+## 🚀TẢI XUỐNG
 <!-- items that need to be updated release to release -->
 [ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.41/TaxCode_v4.41.zip
 [ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.41/TaxTCT_v4.41.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
-
+[__hidden_url_github_emoji]: https://gist.github.com/rxaviers/7360908
 <!-- 
   <picture><img height="28px" alt="" title="Downloads count" src="https://raw.githubusercontent.com/GyulyVGC/GyulyVGC.github.io/master/assets/img/downloads_badge.svg"/></picture>
 -->
@@ -46,7 +47,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
  Ứng dụng chỉ hoạt động trên HĐH Windows 10 trở lên (Không bao gồm máy sử dụng chip ARM). \
 (Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
-## HƯỚNG DẪN TÓM TẮT
+## ⚡HƯỚNG DẪN TÓM TẮT
  - Dành cho Excel Add-in:
     - **Tải tệp về** > **Giải nén vào thư mục phù hợp** > **Bỏ block tệp (nếu có)**
     - **Nhấn vào tệp TaxCode.xlam để mở với Excel** > **Thiết lập cho tra cứu gồm cột dữ liệu**
@@ -55,12 +56,12 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
     - Thiết lập các mục cần thiết.
     - Tải xong, có nút mở để mở thư mục chứa tệp lưu.
 
-## VIDEO HƯỚNG DẪN
+## ▶VIDEO HƯỚNG DẪN
 
  [▶ Xem video trên youtube](https://youtu.be/dDdzOv9w64E)
 
 
-## HƯỚNG DẪN CÀI ĐẶT
+## 🛠️HƯỚNG DẪN CÀI ĐẶT
 
 Giải nén vào một thư mục được đặt tên phù hợp, sau khi giải nén, vào thông tin tệp ngoài thư mục bỏ unblock tệp trước khi cài đặt nếu có.
 > <img width="377" height="389" alt="image" src="https://github.com/user-attachments/assets/e8cf3b18-41ab-433f-a873-b32b76e079de" /><img width="363" height="478" alt="image" src="https://github.com/user-attachments/assets/359bee94-f4b7-4fa2-bc48-23ab7723fd7b" />
@@ -79,7 +80,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
  Nếu ứng dụng bị chặn không cho chạy macro thì hãy vào Cài đặt Excel, vào Trust Center, vào tạo đường dẫn thư mục an toàn cho thư mục chứa add-in tải về.
  
 
-## HƯỚNG DẪN SỬ DỤNG
+## 🕵️‍♂️HƯỚNG DẪN SỬ DỤNG
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
 - **Bước 1**:
@@ -114,7 +115,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 + Nếu muốn tải lại thông tin thì xóa dữ liệu có sẵn và bất đầu lại.
 + Khi ứng dụng hoạt động mở Excel ở tiến trình khác (Cửa sổ mới khác tiến khác) để chương trình tải và ghi, không làm ảnh hưởng đến quá trình làm việc với Excel.
 
-### Tra cứu nhanh​
+### ✨Tra cứu nhanh​
 > <img width="210" height="108" alt="image" src="https://github.com/user-attachments/assets/e8a5b318-3d6e-4ae3-9aa9-66a74b272a01" />
 - Mục tra cứu nhanh giúp tra cứu nhanh chóng khi cần tra cứu một dòng dữ liệu, hoặc một thông tin.​
 - Nhập một thông tin vào hộp để tra cứu nhanh. Không ghi dữ liệu.
@@ -134,27 +135,27 @@ Sau khi nhấn bắt đầu một giao diện cửa sổ như sau sẽ xuất hi
 4. **Đóng**: Nhấn để đóng cửa sổ tra cứu, trình cập nhật chạy ngầm hoặc thoát add-in nếu không cần sử dụng nữa.
 
 
-## LƯU Ý CHUNG
+## ⚠️LƯU Ý CHUNG
 Lưu ý về trang tra cứu TCT, Khi tra cứu trang sẽ mắc lỗi với api tracking, cookie và captcha không đồng nhất, gây lỗi nhập captcha mặc dù đúng nhiều lần nhưng báo sai, không trả về dữ liệu. Lỗi này do trang nguồn, không phải lỗi tại ứng dụng tra cứu. Trang nguồn dùng công nghệ F5 (BIG-IP, NGINX, WAF) để chóng lại các cuộc tấn công, và các hành vi truy vấn nhanh bởi máy. Điều này gây khó khăn hơn trong việc tra cứu.
 
 (chỉ với một trang tra cứu thông tin của quốc gia, nhưng vấn đề gây ra cho người tra cứu quá căng, tôi đã cố hết sức)
 
 
-## Liên hệ
+## 🚩Liên hệ
 
-#### Zalo 
+#### 🚀Zalo 
 Zalo: 0384170514
 <p align="left">
 <img title="@FasterOfficeVBA" src="https://github.com/user-attachments/assets/970644a2-f125-440f-9bd9-2f8888187a22" width="200">
 </p>
 
-#### Facebook Messenger
+#### 🚀Facebook Messenger
 [@Sanbi](https://m.me/he.sanbi)
 
-#### Facebook Page
+#### 🚀Facebook Page
 [FasterOfficeVBA](https://facebook.com/FasterOfficeVBA)
 
-#### Youtube
+#### 🚀Youtube
 [@FasterOfficeVBA](https://www.youtube.com/@FasterOfficeVBA)
 
 #### TikTok
