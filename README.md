@@ -68,11 +68,11 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 
 (Đừng bỏ cuộc nếu bạn chưa biết đến các bước cài đặt căn bản cho tệp Excel, đó là: Tạo thư mục an toàn trong thiết lập của Excel để Excel nhận diện)
 
-**Cách 1:** 
+**▶️Cách 1:** 
 - Mở trực tiếp Add-in hoặc nhấn chuột vào tệp để mở, trong Excel cần **```Enabled Macro```** để chương trình hoạt động. 
 - Nếu chương trình chưa cài đặt khởi động cùng Excel, khi nhấn **BẮT ĐẦU** chương trình sẽ hỏi có cài đặt khởi động vào Excel không?
 
-**Cách 2:** Thực hiện cài đặt Add-in bằng tay: 
+**▶️Cách 2:** Thực hiện cài đặt Add-in bằng tay: 
   - Nếu chưa có tab Deverloper hiển thị trên thanh Ribbon (Thanh công cụ): nhấn chuột phải vào thanh Ribbon, chọn **```Customize the Ribbon```**.
   - Trong thẻ Deverloper chọn **```Excel Add-ins```**, sau đó chọn nút **```Browse...```** vào thư mục chứa tệp Add-in, đánh dấu Add-in vừa thêm và chọn nút OK 
   - Nếu đã cài đặt vào Excel, nhưng mỗi khi mở ứng dụng không thấy trên thanh Ribbon, thì vào **```Task Manager```** cần End Task ứng dụng Excel chạy ngầm.
@@ -83,7 +83,7 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
 ## 🕵️‍♂️HƯỚNG DẪN SỬ DỤNG
 (Trên các nút Ribbon đều có típ hướng dẫn, chỉ cần rê chuột vào nút để xem)
 ### Tra cứu liên tục tự động
-- **Bước 1**:
+- **▶️Bước 1**:
    - <img width="373" height="111" alt="image" src="https://github.com/user-attachments/assets/b785e77a-f6e0-44a8-bc8d-c09c599dc77f" />
    - Tạo một tên thiết lập mới dành cho trang tính hiện tại chứa danh sách cần tra cứu tải về. Thiết lập này dùng để sử dụng lại về sau này khi mở lại trang tính đã thiết lập
    - Chọn mục tìm kiếm về **Doanh nghiệp/Cá Nhân**. (Cá nhân gồm Hộ kinh doanh)
@@ -92,19 +92,19 @@ Giải nén vào một thư mục được đặt tên phù hợp, sau khi giả
    - Tích chọn vào hộp **```Tải liên tục```** nếu là nguồn **Tổng cục thuế**.
    - Chọn cách gợi ý captcha nếu cần thiết khi chọn nguồn **Tổng cục thuế**.
 
-- **Bước 2**:
+- **▶️Bước 2**:
    - <img width="296" height="109" alt="image" src="https://github.com/user-attachments/assets/96736e04-f075-44ec-8c77-917db0bb4b04" />
    - Thiết lập cột ghi dữ liệu, có thể nhập cột ký tự A-Z, hoặc nhập số thứ tự tính từ ô bắt đầu, để xác định cột ghi kết quả, để trống hoặc 0 thì bỏ qua. 
    - Ảnh bên dưới minh họa, chọn ô bắt đầu là B1, nếu chọn cột C ghi dữ liệu thì ô C1 cũng không để trống tiêu đề
 
    - ![taxcode_list](https://github.com/user-attachments/assets/54b711b2-a21a-4891-bd46-9859770dd133)
 
-- **Bước 3**:
+- **▶️Bước 3**:
    - <img width="175" height="111" alt="image" src="https://github.com/user-attachments/assets/78dffa25-f271-41fc-b82e-dc56aeace631" />
    - Nếu muốn tải thông tin thứ 2 nếu có, tích chọn vào **```Thông tin thứ 2+```**, chọn thời gian ```độ trễ``` mỗi lượt tải.
    - Mặc định chương trình sử dụng WebView2 để tải trang, có thể tùy chọn dùng trình duyệt đã cài trên máy tính nếu WebView2 không hoạt động.
 
-- **Bước 4**:
+- **▶️Bước 4**:
    - <img width="376" height="129" alt="image" src="https://github.com/user-attachments/assets/556e7020-1d34-42e4-891a-fee52fa78146" />
    - Nhấn lưu thiết lập và nhấn **```BẮT ĐẦU```** để tự động tra cứu và tải về ghi vào trang tính. Nếu không khởi chạy được có thể do trình quét virus chặn, nên tạm thời tắt đi
    - Luôn luôn cần nhấn lưu lại mỗi khi đổi thông số trước khi nhấn **BẮT ĐẦU**:
@@ -158,7 +158,7 @@ Zalo: 0384170514
 #### 🚀Youtube
 [@FasterOfficeVBA](https://www.youtube.com/@FasterOfficeVBA)
 
-#### TikTok
+#### 🚀TikTok
 [@FasterOfficeVBA](https://www.tiktok.com/@fasterofficevba)
 
 [:top: Về lại đầu trang](#taxcode---tra-cứu-mã-số-thuế)
