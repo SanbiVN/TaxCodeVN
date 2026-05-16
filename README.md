@@ -7,16 +7,16 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 <img width="1578" height="175" alt="image" src="https://github.com/user-attachments/assets/d9382a0b-9a60-47ba-8cfe-1f7cc5bdfa6d" />
 
 ### 📚DANH MỤC
-- [TẢI XUỐNG](#🚀tải-xuống)
-- [HƯỚNG DẪN TÓM TẮT](#⚡hướng-dẫn-tóm-tắt)
-- [VIDEO HƯỚNG DẪN](#▶VIDEO_HƯỚNG_DẪN)
-- [HƯỚNG DẪN CÀI ĐẶT](#🛠️hướng-dẫn-cài-đặt)
-- [HƯỚNG DẪN SỬ DỤNG](#🕵️‍♂️hướng-dẫn-sử-dụng)
+- [TẢI XUỐNG](#tải-xuống)
+- [HƯỚNG DẪN TÓM TẮT](#hướng-dẫn-tóm-tắt)
+- [VIDEO HƯỚNG DẪN](#VIDEO_HƯỚNG_DẪN)
+- [HƯỚNG DẪN CÀI ĐẶT](#hướng-dẫn-cài-đặt)
+- [HƯỚNG DẪN SỬ DỤNG](#hướng-dẫn-sử-dụng)
   - [Tra cứu liên tục tự động](#tra-cứu-liên-tục-tự-động)
   - [Tra cứu nhanh](#tra-cứu-nhanh)
 - [CÁC NÚT CHỨC NĂNG KHÁC](#các-nút-chức-năng-khác)
-- [LƯU Ý CHUNG](#⚠️lưu-ý-chung)
-- [Liên hệ](#🚩liên-hệ)
+- [LƯU Ý CHUNG](#lưu-ý-chung)
+- [Liên hệ](#liên-hệ)
 
   
 ## 🚀TẢI XUỐNG
