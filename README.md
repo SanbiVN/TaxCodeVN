@@ -37,7 +37,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
 |  Thông tin   | Tải xuống |  Chi tiết |
 |--------------|-----------|----------|
 | TaxCode Add-in | [TaxCode_v4.45.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
-| TaxTCT EXE | [TaxTCT_v4.45.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu|
+| TaxTCT EXE | [TaxTCT_v4.45.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu, xuất ra tệp kết quả CSV/XLSX|
 
 
 <!-- 
