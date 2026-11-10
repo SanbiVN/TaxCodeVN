@@ -21,7 +21,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
   
 ## 🚀TẢI XUỐNG
 <!-- items that need to be updated release to release -->
-[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.45/TaxCode_v4.45.zip
+[ptUserAddin]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.46/TaxCode_v4.46.zip
 [ptUserExe]: https://github.com/SanbiVN/TaxCodeVN/releases/download/v4.45/TaxTCT_v4.45.zip
 [ptUserWebview2]: https://go.microsoft.com/fwlink/p/?LinkId=2124703
 [__hidden_url_github_emoji]: https://gist.github.com/rxaviers/7360908
@@ -36,7 +36,7 @@ Công nghệ Web nhân Chromium và WebView2 Runtime được sử dụng để 
  
 |  Thông tin   | Tải xuống |  Chi tiết |
 |--------------|-----------|----------|
-| TaxCode Add-in | [TaxCode_v4.45.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
+| TaxCode Add-in | [TaxCode_v4.46.zip][ptUserAddin] | Cài đặt và sử dụng trong Excel, sau khi cài đặt thì giao diện sử dụng hiển thị trên thanh Ribbon với tên **TaxTCT**. Ứng dụng chỉ cần cài đặt một lần duy nhất, còn lại tự động kiểm tra và tải cài đặt phiên bản mới. |
 | TaxTCT EXE | [TaxTCT_v4.45.zip][ptUserExe] | Là ứng dụng, mở, nhập dữ liệu và tra cứu, xuất ra tệp kết quả CSV/XLSX|
 
 
